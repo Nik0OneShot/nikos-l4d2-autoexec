@@ -1,0 +1,6 @@
+allow_all_bot_survivor_team 1
+sb_all_bot_game 1
+sb_enforce_proximity_range 999999
+sb_separation_danger_max_range 300
+sb_separation_danger_min_range 100
+sb_separation_range 300
